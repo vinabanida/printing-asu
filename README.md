@@ -13,9 +13,13 @@ moral support JKJK i will do S for sure!!!!!!!!
 submit via CANVAS in a ZIP FILE(folder) including asu.pl and README.txt
 
 Grading will be based on the following criteria:
+
     a. Whether you code satisfies the functional requirements (70%).
+    
     b. Boundary case checking (10%)
+    
     c. Comment (20%)
+
 
 a. There are four boundary case. Each will contain 2.5% (of the 10% marks assigned). Check them before you start drawing.
 
