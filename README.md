@@ -1,6 +1,10 @@
 # printing-asu
 
-implement | ?- asu(LeftRightMargin, BottomTopMargin, SpaceBetweenCharacters, FontSize).
+### Mariana Rojas-Gomez contributions:
+
+### Davina Ho contributions:
+
+### implement | ?- asu(LeftRightMargin, BottomTopMargin, SpaceBetweenCharacters, FontSize).
 
 ## For boundary cases, where it is not possible to draw, print "false". If your code print some of the output and then prints "false" then it will be considered as failed!!!!!!!!
 
@@ -15,6 +19,3 @@ a. There are four boundary case. Each will contain 2.5% (of the 10% marks assign
 
 b. Drawing the box and 'A' will be shown in the class. Follow that to draw the other characters.
 
-### Mariana Rojas-Gomez contributions:
-
-### Davina Ho contributions:
