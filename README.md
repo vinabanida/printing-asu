@@ -1,10 +1,12 @@
 # printing-asu
 
+DELETE THIS AFTER: if i dont submit make sure the files are named correctly in the ZIP. i should be able to detail contributions but u can tweak it if u want. ill comment as i go but if i forget could u pls add them. i also might be talking to u in comments abt things i noticed/fixed/tried to fix so if u see those still in there can u delete pls hehe.
+
 ### Mariana Rojas-Gomez contributions:
 teaching davina how to do this
 
 ### Davina Ho contributions:
-moral support JKJK i will do S for sure!!!!!!!!
+moral support JKJK i will do U for sure!!!!!!!!
 
 ### implement | ?- asu(LeftRightMargin, BottomTopMargin, SpaceBetweenCharacters, FontSize).
 
