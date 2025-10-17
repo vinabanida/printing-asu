@@ -1,8 +1,10 @@
 # printing-asu
 
 ### Mariana Rojas-Gomez contributions:
+everything
 
 ### Davina Ho contributions:
+moral support
 
 ### implement | ?- asu(LeftRightMargin, BottomTopMargin, SpaceBetweenCharacters, FontSize).
 
