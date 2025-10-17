@@ -1,10 +1,10 @@
 # printing-asu
 
 ### Mariana Rojas-Gomez contributions:
-everything
+teaching davina how to do this
 
 ### Davina Ho contributions:
-moral support
+moral support JKJK i will do S for sure!!!!!!!!
 
 ### implement | ?- asu(LeftRightMargin, BottomTopMargin, SpaceBetweenCharacters, FontSize).
 
